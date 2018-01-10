@@ -1,4 +1,21 @@
 body {
     background-color: #001433;
-    font-color: white;
+    color: white;
+}
+
+h1{
+    margin-left: 20vw;
+    text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
+    color: #001433;
+    font-family: 'Orbitron', sans-serif;
+    font-size: 5em;
+    line-height: 90%;
+}
+
+h2{
+    text-align: center;
+    text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
+    color: #001433;
+    font-family: 'Orbitron', sans-serif;
+    font-size: 2em;
 }
